@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1565803897 source:c:\users\wj\desktop\c++\cg\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"Aresta.h"
+	"Matriz.h"
+	"Poligono.h"
+	"Ponto.h"
+	"NodeS.h"
+	"ListS.h"
+	<string>
+	<math.h>
+	"Vetor.h"
+	"SRC.h"
+
+1426360528 c:\mingwx64\mingw32\include\gl\glut.h
+	"freeglut_std.h"
+
+1426360528 c:\mingwx64\mingw32\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1564242767 c:\users\wj\desktop\c++\cg\aresta.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Ponto.h"
+	<iostream>
+	<string>
+
+1564504623 c:\users\wj\desktop\c++\cg\ponto.h
+	<iostream>
+	<string>
+
+1565802629 c:\users\wj\desktop\c++\cg\matriz.h
+	<cmath>
+	<iostream>
+	<vector>
+	"time.h"
+	<iomanip>
+	"Ponto.h"
+	"ListS.h"
+	<string>
+	<math.h>
+	"Vetor.h"
+
+1565803712 c:\users\wj\desktop\c++\cg\poligono.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Aresta.h"
+	"Ponto.h"
+	"Matriz.h"
+	<vector>
+	"ListS.h"
+	<string>
+	"SRC.h"
+
+1565803146 c:\users\wj\desktop\c++\cg\lists.h
+	"NodeS.h"
+	<iostream>
+	<string>
+
+1564237017 c:\users\wj\desktop\c++\cg\nodes.h
+	"Ponto.h"
+	"NodeS.h"
+
+1565783910 c:\users\wj\desktop\c++\cg\vetor.h
+	<iostream>
+	<string>
+	"Matriz.h"
+	"math.h"
+
+1565802629 c:\users\wj\desktop\c++\cg\src.h
+	"Vetor.h"
+	<iostream>
+	<string>
+	"Matriz.h"
+	"math.h"
+	"Ponto.h"
+
